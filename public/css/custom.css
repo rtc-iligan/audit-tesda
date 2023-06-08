@@ -1,0 +1,25 @@
+.user-icon {
+    background: #e4e6ea;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 8px;
+}
+.user-icon-1 {
+    background: #e4e6ea;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 8px;
+}
+.border-10{
+    border-radius: 10px !important;
+}
+
+/* f0f2f5 body dapat */ 
